@@ -150,7 +150,7 @@ When the file has uploaded to Galaxy, it will turn green.
 > 1. Import history from: [example input history](https://humancellatlas.usegalaxy.eu/u/wendi.bacon.training/h/short-introduction-to-galaxy--input)
 >
 >    {% snippet faqs/galaxy/histories_import.md %}
-> 2. **Rename** {% icon galaxy-pencil %} the the history to your name of choice.
+> 2. **Rename** {% icon galaxy-pencil %} the history to your name of choice.
 >
 {: .details}
 
